@@ -21,8 +21,7 @@ $ composer require jeroenherczeg/prairie-dog
 ## Usage
 
 ``` php
-$skeleton = new League\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
+PrairieDog::forUser(1)->setPeriod('now','-1 hour')->generate();
 ```
 
 ## Change log
