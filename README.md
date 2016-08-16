@@ -1,4 +1,4 @@
-# A Stream Generator for Laravel 5
+# An Activity Stream Generator for Laravel 5
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
